@@ -25,6 +25,12 @@ Distribution Analysis:
 - Examining the distribution of target variable values (1 and 0) to understand the prevalence of Parkinson's disease in the dataset and identifying potential class imbalances that may impact model training and evaluation.
 ![Dist](https://github.com/faridnec/parkinson-regression/blob/main/img/countplot.png?raw=true)
 
+
+Correlation Heatmap:
+- Visualize the correlation matrix of numeric features in the dataset
+![corrHeatmap](https://github.com/MaMo77570/parkinsons-disease-detection/blob/main/img/Heatmap.png?raw=true)
+
+
 ## Logistic Regression
 
 Logistic Regression (also known as logit model) is often used for classification and predictive analytics. Logistic regression estimates the probability of an event occurring. Since the outcome is a probability, the dependent variable is bounded between 0 and 1 which aligns with the case we are dealing with here.
